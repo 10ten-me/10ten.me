@@ -22,11 +22,6 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
@@ -85,17 +80,9 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    address = ""
+    latitude = "25.0757073"
+    longitude = "54.9475555"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -128,8 +115,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Our Team"
+    subtitle = " We are all coming from different paths with one target: quality. We strive for highest quality. We believe that we can achieve it as a result of doing what we love reliably and with passion. We are serious about what we do. We care about the project and it is important for us to bring it to a successful finish. We all love programming and we are passionate about tech blogging, attending and speaking at conferences."
 
 [params.see_more]
     enable = false
@@ -140,7 +127,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
