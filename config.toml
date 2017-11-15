@@ -128,8 +128,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Our Team"
+    subtitle = " We are all coming from different paths with one target: quality. We strive for highest quality. We believe that we can achieve it as a result of doing what we love reliably and with passion. We are serious about what we do. We care about the project and it is important for us to bring it to a successful finish. We all love programming and we are passionate about tech blogging, attending and speaking at conferences."
 
 [params.see_more]
     enable = false
