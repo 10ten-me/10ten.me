@@ -1,4 +1,4 @@
-weight: 4
+weight: 10
 name: "Code Review"
 icon: "fa fa-search-plus"
 description: "Even the best developers are doing mistakes, that's why we systematically examine the source produced by our peers. It is intended to find mistakes overlooked in software development, improving the overall quality of software."

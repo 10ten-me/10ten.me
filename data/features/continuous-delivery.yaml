@@ -1,4 +1,4 @@
 weight: 5
-name: "Continuous Delivery"
+name: "IT Automation"
 icon: "fa fa-truck"
 description: "Automation is eating the world, so we help you to have a bite. We build the applications, run unit and integrations tests to check if the code is valid, look at a live preview of your development branch before merging into stable and deploy to multiple environments with advanced features like canary and blue-green deployments."
