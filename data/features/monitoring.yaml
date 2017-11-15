@@ -1,0 +1,4 @@
+weight: 6
+name: "Monitoring"
+icon: "fa fa-thermometer-half"
+description: "To effectively implement a DevOps strategy, monitoring is not the only but an important pillar to deliver on the strategy. A monitoring solution is critical to delivering better quality code and provides a realistic feedback loop from operations to development."
