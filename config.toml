@@ -68,7 +68,7 @@ paginate = 10
     email = "contact@10ten.me"
 
     about_us = "We provide the following services: <ul><li> - Frontend, backend and mobile development</li><li> - Ui/Ux</li><li> - Continuous delivery, security and monitoring</li><li> - Code review and Training</li><li> - Strategy</li></ul>"
-    copyright = "Copyright (c) 2017, 10ten.me; all rights reserved."
+    copyright = "&copy; 2017 10ten.me"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
