@@ -1,10 +1,4 @@
 weight: 3
 title: "Design"
-description: >
-  <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
-  </ul>
+description: "<p>Wireframes</p><p>Logo</p><p>Branding</p><p>Mockups</p><p>User Stories</p><p>Art Creation</p>"
 image: "img/carousel/template-easy-customize.png"
