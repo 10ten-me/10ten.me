@@ -85,17 +85,9 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    address = ""
+    latitude = "25.0757073"
+    longitude = "54.9475555"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
